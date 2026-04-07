@@ -1,6 +1,6 @@
 # Hi, I'm Varun Vedala 👋
 
-🎓 Senior at The University of Texas at Austin (MIS @ McCombs)  
+🎓 The University of Texas at Austin (MIS @ McCombs)  
 💡 Aspiring Product Manager | Interested in AI, consumer tech, and systems design  
 📍 Austin, TX  
 
